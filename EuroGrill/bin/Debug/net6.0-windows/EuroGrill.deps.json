@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EuroGrill/1.0.0": {
+        "runtime": {
+          "EuroGrill.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EuroGrill/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
